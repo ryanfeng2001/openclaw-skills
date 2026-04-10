@@ -10,6 +10,7 @@ Custom skills for [OpenClaw](https://github.com/openclaw/openclaw).
 | continuous-learning | Auto-extract patterns and insights from conversations |
 | memory-persistence | Session lifecycle hooks for context preservation |
 | ppt-master | PowerPoint generation and editing |
+| pdf-extract | Extract text from PDF files with pymupdf |
 | wewrite | WeChat Official Account content creation pipeline |
 
 ## Install
